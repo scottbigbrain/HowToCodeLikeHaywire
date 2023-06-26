@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "c37826f38dcef465",
+    "type": "split",
+    "children": [
+      {
+        "id": "324f6c72cea1eecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d78409f1a768c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c28e89e47ebd8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71d5e870f9c735b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81bbd15f5abeb61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5aa175c4d2ec274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8af38303429b531f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a69a59c697bfdcb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0207903defe21e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248bbf8de6479146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e1bde957b8c3157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efd88952bca72170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f77b14d0222d9ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d78409f1a768c95",
+  "lastOpenFiles": [
+    "beginners/So_You_Want_To_Code_A_Robot.md",
+    "beginners/Coding_For_Beginners.md",
+    "README.md",
+    "electronics/img/PDH.webp",
+    "beginners/img/drakememe.jpg",
+    "programming/img/wpilibDocsLogo_300.webp",
+    "beginners/img/thepillars.jpeg",
+    "programming/img/vscode.png",
+    "programming/img/Java_programming_language_logo.png",
+    "programming/img",
+    "electronics/img/ni_roboRIO.jpg",
+    "beginners/img/patrickmeme.jpg",
+    "beginners/img/coder_kevin_ku.png",
+    "beginners/img",
+    "electronics/img/NI-roboRIO.jpg",
+    "electronics/img",
+    "programming",
+    "electronics",
+    "philosophy/CODE_PHILOSOPHY.md"
+  ]
+}
