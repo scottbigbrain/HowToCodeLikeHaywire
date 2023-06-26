@@ -10,8 +10,8 @@ This book was started at the end of the 2023 season, and will hopefully continue
 
 # Beginners
 If you are just getting started in programming, we have some guides to help get you up and running! :)
-[So You Want To Code A Robot? (3,000 ft view of what we do in programming)](./beginners/So_You_Want_To_Code_A_Robot)
-[Coding For Beginners](./beginners/Coding_For_Beginners)
+- [So You Want To Code A Robot? (3,000 ft view of what we do in programming)](./beginners/So_You_Want_To_Code_A_Robot)
+- [Coding For Beginners](./beginners/Coding_For_Beginners)
 
 
 # Goals
