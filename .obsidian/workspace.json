@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "beginners/FRC_Lightsaber.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "beginners/FRC_Lightsaber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "beginners/FRC_Lightsaber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "beginners/FRC_Lightsaber.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e113e11134b06e75",
+  "active": "b81bbd15f5abeb61",
   "lastOpenFiles": [
-    "beginners/So_You_Want_To_Code_A_Robot.md",
     "README.md",
+    "beginners/So_You_Want_To_Code_A_Robot.md",
+    "beginners/FRC_Lightsaber.md",
     "beginners/Coding_For_Beginners.md",
+    "beginners/Untitled.md",
+    "beginners/VSCode.md",
+    "philosophy/CODE_PHILOSOPHY.md",
     "electronics/img/PDH.webp",
     "electronics/img/ni_roboRIO.jpg",
     "Untitled.md",
@@ -166,7 +170,6 @@
     "electronics/img/NI-roboRIO.jpg",
     "electronics/img",
     "programming",
-    "electronics",
-    "philosophy/CODE_PHILOSOPHY.md"
+    "electronics"
   ]
 }

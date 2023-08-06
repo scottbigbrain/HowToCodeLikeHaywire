@@ -43,3 +43,5 @@ Next, read through these guides. The will be able to help you understand the bas
 Also, don't stress not understanding stuff at first. Programming is a complicated skill, but an incredibly valuable one. I started coding almost 6 years ago, and I don't even know everything.
 Be prepared for it to be a lot of fun though. You won't regret being a programmer.
 ![drake meme](./img/drakememe.jpg)
+
+# Next Lesson: [Coding for Beginners](./Coding_For_Beginners.md)
