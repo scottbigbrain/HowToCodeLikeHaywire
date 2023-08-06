@@ -1,4 +1,4 @@
-# Coding For Beginners
+# Lesson 1: Coding For Beginners
 So, you've decided to take the leap and learn how to code a robot. Great! Programming isn't actually all that hard to learn once you get into it. This guide will go over some of that absolute basic concepts of programming and where to go to start learning.
 
 # What is a Programming Language?

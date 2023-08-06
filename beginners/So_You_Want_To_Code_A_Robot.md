@@ -1,4 +1,4 @@
-# So You Want To Code A Robot
+# Lesson 0: So You Want To Code A Robot
 Greetings aspiring programmer! We are so excited to see you deciding to join a cult and send cryptic symbols into the depths of a computer so that robot go brrr and fly around the room. :D
 ![Cool coder photo by Kevin Ku](./img/coder_kevin_ku.png) 
 Photo by [Kevin Ku](https://unsplash.com/photos/w7ZyuGYNpRQ)
