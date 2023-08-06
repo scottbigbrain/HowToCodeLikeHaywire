@@ -10,6 +10,7 @@ new WaitCommand(5.0)
 ## The Java Language
 Just like how there are many different human languages, there are many programming languages. The one that we use for FRC is called Java (not to be confused with JavaScript, which is actually a completely different language. Confusing, I know). Java is a standard in FIRST Robotics, and is super useful for you in industries outside of FRC.
 ![Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+
 ![Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
 *(this one is kinda a joke but it's also funny)*
 If you don't understand Java right now, that's okay. It will make sense with time, I promise.
@@ -21,5 +22,4 @@ We *highly* recommend the [Code Academy Java course](https://www.codecademy.com/
 Once you understand the Java basics, there's not much need for a course, as you'll get all the additional knowledge you need in the shop.
 ## Good Videos
 
-# Next Steps
-Once you understand the basics of programming, you'll need to learn about the software that we on Haywire use.
+# Next Lesson: [Your Toolkit](./Your_Toolkit.md)
