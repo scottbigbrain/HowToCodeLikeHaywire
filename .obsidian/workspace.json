@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginners/Your_Toolkit.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "e113e11134b06e75",
   "lastOpenFiles": [
+    "beginners/Your_Toolkit.md",
     "programming/img/download_wpilib_tools.png",
     "programming/img/Screenshot 2023-08-06 at 15-10-22 WPILib Installation Guide.png.part",
     "programming/img/Screenshot 2023-08-06 at 15-10-22 WPILib Installation Guide.png",
     "beginners/Coding_For_Beginners.md",
-    "beginners/Your_Toolkit.md",
     "beginners/So_You_Want_To_Code_A_Robot.md",
     "README.md",
     "beginners/Untitled.md",
@@ -168,7 +168,6 @@
     "programming/img/Java_programming_language_logo.png",
     "programming/img",
     "beginners/img/patrickmeme.jpg",
-    "beginners/img/coder_kevin_ku.png",
     "beginners/img",
     "electronics/img",
     "programming",
