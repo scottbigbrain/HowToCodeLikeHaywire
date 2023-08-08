@@ -13,4 +13,22 @@ If everything went okay on your install of WPILib earlier, VS Code should now be
 What is VS Code? Well, all of the code that makes the robot run, as well as the libraries from WPILib that we mentioned earlier, are really just text files when it comes down to it. But just like how it would be a lot harder to write an essay in Windows' default notepad application than in Google Docs or Word, it is far harder to code a robot in plain text files than it is in VS Code. Visual Studio provides you with an extensive set of tools that make it easier to edit code. We'll go over a few of them below.
 ![VS Code Doge](../programming/img/vscode_doge.jpg)
 ## Syntax Highlighting
-One of the big things that VS Code does for you is syntax highlighting. 
+One of the big things that VS Code does for you is syntax highlighting. [Syntax](https://en.wikipedia.org/wiki/Syntax) is just a fancy word for grammar. Just like the English language, programs have different types of words, like subjects, verbs, predicates, etc. But unlike English, those different types of words being the same color makes programs harder to read, not easier. For example, take this piece of the 2023 robot code that helped to drive the swerve modules.
+```
+public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
+	double speed = Math.sqrt(xSpeed*xSpeed + ySpeed*ySpeed);
+	double direction = Math.toDegrees(Math.atan2(ySpeed, xSpeed));
+	driveVector(speed, direction, aSpeed);
+}
+```
+Pretty confusing, right? Even as someone who helped to write this code, it is hard to parse through what statements are doing what and what different values mean. Now let's see it with highlighting.
+```java
+public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
+	double speed = Math.sqrt(xSpeed*xSpeed + ySpeed*ySpeed);
+	double direction = Math.toDegrees(Math.atan2(ySpeed, xSpeed));
+	driveVector(speed, direction, aSpeed);
+}
+```
+Now we can see what is just an operation on variables, what is a type definition, and so one, all from the colors. Don't worry if you don't understand the code still, that isn't the point. The point is that syntax highlighting will let you see things that you didn't see before, helping you code blazingly fast.
+## Intellisense
+Intellisense is essentially autocorrect for programmers. As you type you see a box
