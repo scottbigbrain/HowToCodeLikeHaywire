@@ -33,3 +33,9 @@ If you want to understand intellisense better, take a look at [this tutorial](ht
 ## Video tutorial
 Finally, take just a few minutes to go watch this tutorial that goes through VS Code's basics in 100 seconds.
 ![Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
+# GitHub
+The final essential tool to be covered in this tutorial is [GitHub](https://github.com). There is no worse case scenario for a programmer than to have the laptop with all of the team's code on it brick itself halfway through a competition, stopping them from fixing bugs and keeping the bot going through the Utah Regionals (this is a thing that *did and does happen*). How are we supposed to avoid this major nightmare? Backups. Backups backups backups.
+
+GitHub is a cloud based solution for backing up and managing your code. You can see all of Haywire's code previous code at [the team's GitHub](https://github.com/HaywireRobotics). You want to backup (or push as it is called) your code regularly, and we will get into the details of that and best practices for it in later tutorials. For now, know that it exists and is exceedingly useful.
+
+Nonetheless, there are a few places to go and learn now if you are interested. VS Code has GitHub integrated into the editor; go [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git) if you want to learn how to use it. If you plan on doing development for the team at home instead of just at the shop then yo
