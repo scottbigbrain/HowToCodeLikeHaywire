@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/VSCode.md",
+                "file": "beginners/Your_Toolkit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "programming/VSCode.md",
+            "file": "beginners/Your_Toolkit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "programming/VSCode.md",
+            "file": "beginners/Your_Toolkit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "programming/VSCode.md"
+            "file": "beginners/Your_Toolkit.md"
           }
         }
       }
@@ -141,10 +141,20 @@
   },
   "active": "2b7c4248b1515f31",
   "lastOpenFiles": [
+    "programming/img/installer-vscode-download.webp",
+    "beginners/Coding_For_Beginners.md",
+    "programming/img/download_wpilib_tools.png",
+    "programming/img/Screenshot 2023-08-06 at 15-10-22 WPILib Installation Guide.png",
+    "beginners/Your_Toolkit.md",
+    "/programming/img/download_wpilib_tools.png",
+    "/programming/img/Screenshot 2023-08-06 at 15-10-22 WPILib Installation Guide.png",
+    "/beginners/Your_Toolkit.md",
+    "/beginners/So_You_Want_To_Code_A_Robot.md",
+    "/beginners/Coding_For_Beginners.md",
+    "/README.md",
+    "programming/VSCode.md",
     "programming/Programming_Software.md",
     "Untitled.md",
-    "programming/VSCode.md",
-    "beginners/Coding_For_Beginners.md",
     "beginners/So_You_Want_To_Code_A_Robot.md",
     "README.md",
     "programming/img/wpilibDocsLogo_300.webp",
@@ -154,9 +164,6 @@
     "electronics/img/ni_roboRIO.jpg",
     "electronics/img/PDH.webp",
     "beginners/img/thepillars.jpeg",
-    "beginners/img/patrickmeme.jpg",
-    "beginners/img/drakememe.jpg",
-    "beginners/img/coder_kevin_ku.png",
     "LICENSE",
     "programming/img",
     "programming",
