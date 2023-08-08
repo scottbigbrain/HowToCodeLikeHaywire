@@ -6,8 +6,6 @@ Robotics are incredibly complicated pieces of machinery, and as such require som
 To install the software packages, go to the [WPILib Installation Guide](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html). Follow the instructions there for your specific operating system. If you follow them properly then everything should work fine. Remember, we use Java at Haywire, not C++, so there is no need to follow any of the steps specific to C++. If you do run into problems, contact a team member or mentor for help.
 
 There is one final aspect of this process to be aware of. When you reach a screen like the one below where it asks how to install VS Code, you need to chose "Download for this computer early". This ensures that you don't encounter any bugs or difficulties associated with mixing your WPILib install with other versions of VS Code.
-![Download VS Code option](../programming/img/download)
+![Download VS Code option](../programming/img/installer-vscode-download.webp)
 # Visual Studio Code
-Visual Studio Code (VS Code) is an industry standard code editor for writing, testing, and running programs in a wide variety of languages. Learning VS Code is actually *workforce training*, as it's what almost all professional software developers use on a daily basis. I had the chance to work as an intern at INL once, and VS Code was the tool of choice for most developers at the lab.
-
-Visual Studio is an IDE, which stands of Integrated Development Environment. It provides you with a massive suite of tools that are ideally suited for writing Java, and it can help you understand and autocomplete parts of code when you get stuck. 
+If everything went okay on your install of WPILib earlier, VS Code should now be on your system. Visual Studio Code (VS Code) is an industry standard code editor for writing, testing, and running programs in a wide variety of languages. Learning VS Code is actually *workforce training*, as it's what almost all professional software developers use on a daily basis. I had the chance to work as an intern at INL once, and VS Code was the tool of choice for most developers at the lab.
