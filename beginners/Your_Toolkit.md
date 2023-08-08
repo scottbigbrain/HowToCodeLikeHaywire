@@ -21,14 +21,8 @@ public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
 	driveVector(speed, direction, aSpeed);
 }
 ```
-Pretty confusing, right? Even as someone who helped to write this code, it is hard to parse through what statements are doing what and what different values mean. Now let's see it with highlighting.
-```java
-public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
-	double speed = Math.sqrt(xSpeed*xSpeed + ySpeed*ySpeed);
-	double direction = Math.toDegrees(Math.atan2(ySpeed, xSpeed));
-	driveVector(speed, direction, aSpeed);
-}
-```
+Pretty confusing, right? Even as someone who helped to write this code, it is hard to parse through what statements are doing what and what different values mean. Now let's see it with highlighting, as it appears in VS Code.
+![syntax hightlighting](../programming/img/syntax_highlighting.png)
 Now we can see what is just an operation on variables, what is a type definition, and so one, all from the colors. Don't worry if you don't understand the code still, that isn't the point. The point is that syntax highlighting will let you see things that you didn't see before, helping you code blazingly fast.
 ## Intellisense
 Intellisense is essentially auto-correct for programmers. As you type you will see a box start to appear with options in it. You can hit `Tab` or `Enter` to autocomplete, and can even use the arrow keys to sort through the suggestions.
@@ -37,6 +31,5 @@ You can also hover over particular items to learn more about them, such as the p
 ![hover intellisense](../programming/img/hover_intellisense.png)
 If you want to understand intellisense better, take a look at [this tutorial](https://code.visualstudio.com/docs/editor/intellisense).
 ## Video tutorial
-Finally, take just a few minutes to go watch this tutorial that goes 
+Finally, take just a few minutes to go watch this tutorial that goes through VS Code's basics in 100 seconds.
 ![Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
-!
