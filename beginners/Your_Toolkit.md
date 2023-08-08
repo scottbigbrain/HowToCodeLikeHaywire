@@ -9,3 +9,4 @@ There is one final aspect of this process to be aware of. When you reach a scree
 ![Download VS Code option](../programming/img/installer-vscode-download.webp)
 # Visual Studio Code
 If everything went okay on your install of WPILib earlier, VS Code should now be on your system. Visual Studio Code (VS Code) is an industry standard code editor for writing, testing, and running programs in a wide variety of languages. Learning VS Code is actually *workforce training*, as it's what almost all professional software developers use on a daily basis. I had the chance to work as an intern at INL once, and VS Code was the tool of choice for most developers at the lab.
+
