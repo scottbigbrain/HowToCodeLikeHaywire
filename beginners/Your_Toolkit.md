@@ -31,4 +31,12 @@ public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
 ```
 Now we can see what is just an operation on variables, what is a type definition, and so one, all from the colors. Don't worry if you don't understand the code still, that isn't the point. The point is that syntax highlighting will let you see things that you didn't see before, helping you code blazingly fast.
 ## Intellisense
-Intellisense is essentially autocorrect for programmers. As you type you see a box
+Intellisense is essentially auto-correct for programmers. As you type you will see a box start to appear with options in it. You can hit `Tab` or `Enter` to autocomplete, and can even use the arrow keys to sort through the suggestions.
+![intellisense](../programming/img/intellisense.png)
+You can also hover over particular items to learn more about them, such as the parameters that they take, where they are defined, etc. This one is particularly helpful when trying to better understand a piece of code.
+![hover intellisense](../programming/img/hover_intellisense.png)
+If you want to understand intellisense better, take a look at [this tutorial](https://code.visualstudio.com/docs/editor/intellisense).
+## Video tutorial
+Finally, take just a few minutes to go watch this tutorial that goes 
+![Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
+!
