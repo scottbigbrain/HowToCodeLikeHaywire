@@ -10,3 +10,7 @@ There is one final aspect of this process to be aware of. When you reach a scree
 # Visual Studio Code
 If everything went okay on your install of WPILib earlier, VS Code should now be on your system. Visual Studio Code (VS Code) is an industry standard code editor for writing, testing, and running programs in a wide variety of languages. Learning VS Code is actually *workforce training*, as it's what almost all professional software developers use on a daily basis. I had the chance to work as an intern at INL once, and VS Code was the tool of choice for most developers at the lab.
 
+What is VS Code? Well, all of the code that makes the robot run, as well as the libraries from WPILib that we mentioned earlier, are really just text files when it comes down to it. But just like how it would be a lot harder to write an essay in Windows' default notepad application than in Google Docs or Word, it is far harder to code a robot in plain text files than it is in VS Code. Visual Studio provides you with an extensive set of tools that make it easier to edit code. We'll go over a few of them below.
+![VS Code Doge](../programming/img/vscode_doge.jpg)
+## Syntax Highlighting
+One of the big things that VS Code does for you is syntax highlighting. 
