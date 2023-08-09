@@ -6,13 +6,14 @@ A programming language is a system for telling a computer what to do. You, the p
 ```java
 new WaitCommand(5.0)
 ```
-![What is a Programming Language in 60 seconds!](https://www.youtube.com/watch?v=XASY30EfGAc)
+Before moving on, please watch this video.
+[What is a Programming Language in 60 seconds!](https://www.youtube.com/watch?v=XASY30EfGAc)
 ## The Java Language
 Just like how there are many different human languages, there are many programming languages. The one that we use for FRC is called Java (not to be confused with JavaScript, which is actually a completely different language. Confusing, I know). Java is a standard in FIRST Robotics, and is super useful for you in industries outside of FRC.
-![Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
 
-![Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
-*(this one is kinda a joke but it's also funny)*
+Explanation of Java: [Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+This other one is a joke but also pretty funny: [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
+
 If you don't understand Java right now, that's okay. It will make sense with time, I promise.
 
 # How to Learn Java

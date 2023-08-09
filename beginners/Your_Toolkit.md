@@ -32,7 +32,7 @@ You can also hover over particular items to learn more about them, such as the p
 If you want to understand intellisense better, take a look at [this tutorial](https://code.visualstudio.com/docs/editor/intellisense).
 ## Video tutorial
 Finally, take just a few minutes to go watch this tutorial that goes through VS Code's basics in 100 seconds.
-![Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
+[Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
 # GitHub
 The final essential tool to be covered in this tutorial is [GitHub](https://github.com). There is no worse case scenario for a programmer than to have the laptop with all of the team's code on it brick itself halfway through a competition, stopping them from fixing bugs and keeping the bot going through the Utah Regional (this is a thing that *did and does happen*). How are we supposed to avoid this major nightmare? Backups. Backups backups backups.
 
