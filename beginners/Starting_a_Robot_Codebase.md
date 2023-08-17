@@ -4,8 +4,10 @@ So here you are. You've fought all the way through the last three tutorials to g
 WPILib contains a very useful tool in the command prompt for just this use. Open up an empty VS Code window and hit `Ctrl + Shift + P`, or click on the WPILib logo in the upper righthand corner. Now if you type in `Create a new project`, you should see the following option come up.
 
 ![Create a new project](../programming/img/create_a_new_project_command.png)
-Hit enter and you will now see the following screen pop up. 
+Hit enter and you will now see the following screen pop up. Follow the instructions below to create an example project with it.
 
 ![New Project Creator](../programming/img/new-project-creator.webp)
 Here's what each component means:
-1. **Project Type:** There are two types of project that you can have, **Template** and **Example**. **Template** generates a new project for you t
+1. **Project Type:** There are two types of project that you can have, **Template** and **Example**. **Template** generates a new project for you that just has the bare bones needed to get going, but no functionality. **Example** is a set of pre-made projects used to help you learn. For production code you will always use **Template**, but for now hit **Example**.
+2. **Language:** Self-explanatory. We use java so choose that, although C++ if pretty fun if you want a challenge that the rest of Haywire will probably not go along with you on.
+3. **Project Base:** Selects the base template or example you wish to start the project from. For serious projects I would recommend **Command Robot** under **Template**, but for this example select 
