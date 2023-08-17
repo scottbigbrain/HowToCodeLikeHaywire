@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e113e11134b06e75",
+            "id": "ed67be38953fd90d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "beginners/Starting_a_Robot_Codebase.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ed67be38953fd90d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "beginners/Starting_a_Robot_Codebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "beginners/Starting_a_Robot_Codebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beginners/Your_Toolkit.md"
+                "file": "beginners/Starting_a_Robot_Codebase.md"
               }
             }
           }
@@ -154,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e113e11134b06e75",
+  "active": "ed67be38953fd90d",
   "lastOpenFiles": [
-    "programming/img/Screenshot_of_command_prompt.png",
-    "beginners/Starting_a_Robot_Codebase.md",
+    "programming/img/create_a_new_project_command.png",
     "beginners/Your_Toolkit.md",
-    "beginners/Coding_For_Beginners.md",
+    "beginners/Starting_a_Robot_Codebase.md",
     "beginners/So_You_Want_To_Code_A_Robot.md",
+    "programming/img/Screenshot_of_command_prompt.png",
+    "beginners/Coding_For_Beginners.md",
     "README.md",
     "programming/img/syntax_highlighting.png",
     "programming/img/syntax_highlighting.png.png",
@@ -174,7 +167,6 @@
     "beginners/VSCode.md",
     "philosophy/CODE_PHILOSOPHY.md",
     "electronics/img/PDH.webp",
-    "electronics/img/ni_roboRIO.jpg",
     "Untitled.md",
     "programming/img",
     "beginners/img",
