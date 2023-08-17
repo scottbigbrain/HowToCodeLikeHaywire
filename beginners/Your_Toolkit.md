@@ -40,4 +40,4 @@ GitHub is a cloud based solution for backing up and managing your code. You can 
 
 Nonetheless, there are a few places to go and learn now if you are interested. VS Code has GitHub integrated into the editor; go [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git) if you want to learn how to use it. If you plan on doing development for the team at home instead of just at the shop then you will need a personal GitHub account, which you can [go make now](https://github.com/signup).
 
-# Next Lesson: [Starting a Robot Codebase](./Starting_a_Robot_Codebase.md)
+# Next Lesson: [Starting a Robot Codebase](Starting_a_Robot_Codebase.md)
