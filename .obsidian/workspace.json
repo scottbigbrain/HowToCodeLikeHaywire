@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 390.5
   },
   "right": {
     "id": "a69a59c697bfdcb0",
@@ -156,9 +156,10 @@
   },
   "active": "e113e11134b06e75",
   "lastOpenFiles": [
+    "programming/img/Screenshot_of_command_prompt.png",
     "beginners/Starting_a_Robot_Codebase.md",
-    "beginners/Coding_For_Beginners.md",
     "beginners/Your_Toolkit.md",
+    "beginners/Coding_For_Beginners.md",
     "beginners/So_You_Want_To_Code_A_Robot.md",
     "README.md",
     "programming/img/syntax_highlighting.png",

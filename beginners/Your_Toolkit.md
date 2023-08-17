@@ -30,6 +30,10 @@ Intellisense is essentially auto-correct for programmers. As you type you will s
 You can also hover over particular items to learn more about them, such as the parameters that they take, where they are defined, etc. This one is particularly helpful when trying to better understand a piece of code.
 ![hover intellisense](../programming/img/hover_intellisense.png)
 If you want to understand intellisense better, take a look at [this tutorial](https://code.visualstudio.com/docs/editor/intellisense).
+## Command Prompt
+Visual Studio Code, and especially WPILib, is jam packed with functionality. Instead of stuffing all of that functionality into a difficult to navigate menu, much of it has been turned into commands that you can run from the VS Code command prompt. If you enter VS Code and hit `Ctrl + Shift + P`, the prompt and its dropdown will appear.
+![command prompt dropdown](../programming/img/Screenshot_of_command_prompt.png)
+From here you can compile code and upload it to the robot, format code to look pretty, start new projects, and much, much more. We will go over how to use it for a lot of that in a later tutorial.
 ## Video tutorial
 Finally, take just a few minutes to go watch this tutorial that goes through VS Code's basics in 100 seconds.
 [Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
