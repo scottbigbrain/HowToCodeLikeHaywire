@@ -23,5 +23,7 @@ All languages have a set of basics that you need to understand before you can st
 We *highly* recommend the [Code Academy Java course](https://www.codecademy.com/learn/learn-java), as it will quickly get you up to speed on all of the essentials needed to be fluent in Java. We recommend building a *regular schedule* where you can practice and learn every so often until you understand the basics.
 
 Once you understand the Java basics, there's not much need for a course, as you'll get all the additional knowledge you need in the shop.
+## Fun Ways to Practice
+Code Academy, while it does teach the essentials 
 
 # Next Lesson: [Your Toolkit](./Your_Toolkit.md)
