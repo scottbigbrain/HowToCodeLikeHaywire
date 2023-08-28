@@ -12,6 +12,7 @@ Before moving on, please watch this video.
 Just like how there are many different human languages, there are many programming languages. The one that we use for FRC is called Java (not to be confused with JavaScript, which is actually a completely different language. Confusing, I know). Java is a standard in FIRST Robotics, and is super useful for you in industries outside of FRC.
 
 Explanation of Java: [Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+
 This other one is a joke but also pretty funny: [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
 
 If you don't understand Java right now, that's okay. It will make sense with time, I promise.
@@ -20,5 +21,7 @@ If you don't understand Java right now, that's okay. It will make sense with tim
 All languages have a set of basics that you need to understand before you can start building robots with them. Think of it like how you need to learn some vocabulary and grammar before you can write a Smash Bros fanfic. Thus, we're gonna suggest that you spend at least a few weeks learning fundamentals on your own time and then come take a look at how Java works in a robot specific context.
 ## Good Courses
 We *highly* recommend the [Code Academy Java course](https://www.codecademy.com/learn/learn-java), as it will quickly get you up to speed on all of the essentials needed to be fluent in Java. We recommend building a *regular schedule* where you can practice and learn every so often until you understand the basics.
+
 Once you understand the Java basics, there's not much need for a course, as you'll get all the additional knowledge you need in the shop.
+
 # Next Lesson: [Your Toolkit](./Your_Toolkit.md)

@@ -8,14 +8,12 @@ Photo by [Kevin Ku](https://unsplash.com/photos/w7ZyuGYNpRQ)
 We as programmers are an essential aspect of the Haywire workflow. Each team is necessary: Public Resources make sure we have the money and the public involvement to build and compete, Field Build ensures that we are able to test the bot, and Build Team screws pieces of metal together to go zoom, Safety Captain keeps us from doing stupid, Drive Team pushes buttons on controllers, and so on.
 
 ![Robots are dumb](./img/patrickmeme.jpg)
-
 But robots are, unfortunately, stupid. They have no concept of the game, their world, or even how to turn their motors. In addition, if build team just straps a motor to the bot and tries to plug it directly into a battery, it will blow up and burn down the shop. This is a big problem, almost as big as your mom. These are the kinds of problems that we as programmers solve.
 
 # Responsibilities of a Programmer
 There are two main things that we are programmers have to do for the team: **Programing/Code** and **Wiring/Electronics**. You do not need to be proficient in both to be a programmer, but it is recommended that you learn each, both to ensure that you can help the team in any capacity needed, but also to make yourself a more well-rounded.
 
 ![programmers do wiring and code](./img/thepillars.jpeg)
-
 If you choose to become a programmer, and I hope you do, it will require learning at least one of these skills and actively using it to help the team. There are countless people here on Haywire to help you, as well as these guides.
 
 # Programming and Code

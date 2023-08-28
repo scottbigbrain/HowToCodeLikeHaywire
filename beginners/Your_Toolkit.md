@@ -24,7 +24,6 @@ public void driveXY(double xSpeed, double ySpeed, double aSpeed) {
 }
 ```
 Pretty confusing, right? Even as someone who helped to write this code, it is hard to parse through what statements are doing what and what different values mean. Now let's see it with highlighting, as it appears in VS Code.
-
 ![syntax hightlighting](../programming/img/syntax_highlighting.png)
 Now we can see what is just an operation on variables, what is a type definition, and so one, all from the colors. Don't worry if you don't understand the code still, that isn't the point. The point is that syntax highlighting will let you see things that you didn't see before, helping you code blazingly fast.
 ## Intellisense
@@ -35,13 +34,9 @@ You can also hover over particular items to learn more about them, such as the p
 
 ![hover intellisense](../programming/img/hover_intellisense.png)
 If you want to understand intellisense better, take a look at [this tutorial](https://code.visualstudio.com/docs/editor/intellisense).
-## Command Prompt
-Visual Studio Code, and especially WPILib, is jam packed with functionality. Instead of stuffing all of that functionality into a difficult to navigate menu, much of it has been turned into commands that you can run from the VS Code command prompt. If you enter VS Code and hit `Ctrl + Shift + P`, the prompt and its dropdown will appear.
-
-![command prompt dropdown](../programming/img/Screenshot_of_command_prompt.png)
-From here you can compile code and upload it to the robot, format code to look pretty, start new projects, and much, much more. We will go over how to use it for a lot of that in a later tutorial.
 ## Video tutorial
 Finally, take just a few minutes to go watch this tutorial that goes through VS Code's basics in 100 seconds.
+
 [Visual Studio Code in 100 Seconds](https://youtu.be/KMxo3T_MTvY)
 # GitHub
 The final essential tool to be covered in this tutorial is [GitHub](https://github.com). There is no worse case scenario for a programmer than to have the laptop with all of the team's code on it brick itself halfway through a competition, stopping them from fixing bugs and keeping the bot going through the Utah Regional (this is a thing that *did and does happen*). How are we supposed to avoid this major nightmare? Backups. Backups backups backups.
@@ -50,4 +45,4 @@ GitHub is a cloud based solution for backing up and managing your code. You can 
 
 Nonetheless, there are a few places to go and learn now if you are interested. VS Code has GitHub integrated into the editor; go [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git) if you want to learn how to use it. If you plan on doing development for the team at home instead of just at the shop then you will need a personal GitHub account, which you can [go make now](https://github.com/signup).
 
-# Next Lesson: [Starting a Robot Codebase](Starting_a_Robot_Codebase.md)
+# Next Lesson: [Starting a Robot Codebase](./Starting_a_Robot_Codebase.md)
