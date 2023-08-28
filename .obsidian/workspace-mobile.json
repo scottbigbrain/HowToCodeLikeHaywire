@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beginners/Your_Toolkit.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "beginners/Your_Toolkit.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "beginners/Your_Toolkit.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "beginners/Your_Toolkit.md"
+            "file": "README.md"
           }
         }
       }
@@ -141,8 +141,10 @@
   },
   "active": "2b7c4248b1515f31",
   "lastOpenFiles": [
-    "beginners/Coding_For_Beginners.md",
+    "beginners/So_You_Want_To_Code_A_Robot.md",
+    "README.md",
     "beginners/Your_Toolkit.md",
+    "beginners/Coding_For_Beginners.md",
     "programming/img/vscode_doge.jpg",
     "programming/img/syntax_highlighting.png",
     "programming/img/intellisense.png",
@@ -153,7 +155,6 @@
     "/programming/img/hover_intellisense.png",
     "/beginners/Your_Toolkit.md",
     "/README.md",
-    "beginners/So_You_Want_To_Code_A_Robot.md",
     "programming/img/installer-vscode-download.webp",
     "programming/img/download_wpilib_tools.png",
     "/beginners/So_You_Want_To_Code_A_Robot.md",
@@ -161,7 +162,6 @@
     "programming/VSCode.md",
     "programming/Programming_Software.md",
     "Untitled.md",
-    "README.md",
     "philosophy/CODE_PHILOSOPHY.md",
     "LICENSE",
     "programming/img",
