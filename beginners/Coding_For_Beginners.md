@@ -24,6 +24,6 @@ We *highly* recommend the [Code Academy Java course](https://www.codecademy.com/
 
 Once you understand the Java basics, there's not much need for a course, as you'll get all the additional knowledge you need in the shop.
 ## Fun Ways to Practice
-Code Academy, while it does teach the essentials 
+Code Academy, while it does teach the essentials incredibly well, can be a little boring. So, if you want to try building something more hands on, you can try out [Processing](https://processing.org/), which lets you make games, animations, art, and more using Java. I would recommend Daniel Shiffman's [Processing tutorial series](https://youtube.com/playlist?list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&si=), which is excellent and part of how I learned to code. This part isn't required at all though and is only for those who want to mess around with different ways of learning and practicing Java.
 
 # Next Lesson: [Your Toolkit](./Your_Toolkit.md)
